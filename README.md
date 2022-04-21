@@ -4,6 +4,7 @@ Big Ideas Final Project:  Analyzing the healthiest neighborhood in Pittsburgh, t
 Team Name:  Pittsburgh Health Inspectors
 Josh Horan: jjh133@pitt.edu
 
+Arthur Ming: xim49@pitt.edu
 
 Data: 
 Air Quality: https://data.wprdc.org/dataset/allegheny-county-air-quality,  day by day readings of air quality and 
