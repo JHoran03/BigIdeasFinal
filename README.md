@@ -2,6 +2,7 @@
 Big Ideas Final Project:  Analyzing the healthiest neighborhood in Pittsburgh, this conclusion was determined by the included data sets.
 
 Team Name:  Pittsburgh Health Inspectors
+
 Josh Horan: jjh133@pitt.edu
 
 Arthur Ming: xim49@pitt.edu
